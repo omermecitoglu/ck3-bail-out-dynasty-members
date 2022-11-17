@@ -1,4 +1,4 @@
-# 1.7.2
+﻿# 1.7.2
 
 pay_ransom_interaction = {
 	interface_priority = 50
